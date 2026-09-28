@@ -21,7 +21,23 @@ specifically used for the game development
 - Pipes are randomly arranged as per the loops added whenever play game you'll notuce that pipes are
 - not in same order those are arranged in a random order 
 - after doughing every pipe your score increases 
-- sound are added after doughing pipes , after bird get hit by a pipe or score get increased 
+- sound are added after doughing pipes , after bird get hit by a pipe or score get increased
+
+# ASSEST FILE --
+- bird image (midflap,up flap, down flap)
+- background
+- base
+- pipes
+- numbers
+# SOUND FILES
+- hit
+- wave
+- die
+- swoosh
+- wing
+
+- ALSO MORE SPECIFICALLY IN MY CODE I ONLY IMPLEMENTED THE MID FLAP BIRD BUT DUES TO SOME FOR AND WHILE LOOP ERRORS
+- THE UP AND DOWN FLAP BIRD TO IMPLEMENT IS NOT POSSIBLE IF YOU CAN DO THIS LET ME KNOW 
 
 # ROUGH PROCESS
 ## How to Run
